@@ -1,0 +1,13 @@
+{
+  "name": "architect-php/console",
+  "autoload": {
+    "psr-4": {
+      "Architect\\Console\\": ""
+    }
+  },
+  "requires": {
+    "architect-php/event": "*",
+    "architect-php/interpreter": "*",
+    "architect-php/container": "*"
+  }
+}
